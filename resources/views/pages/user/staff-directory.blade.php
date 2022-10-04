@@ -59,9 +59,9 @@
                                             <div>
                                                 Mobile: {{$user->mobile}}
                                             </div>
-                                            <div>
+                                            <!-- <div>
                                                 Phone: {{$user->phone}}
-                                            </div>
+                                            </div> -->
                                         </div>
 
                                     </td>
